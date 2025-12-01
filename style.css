@@ -1,0 +1,22 @@
+h1{
+    color: #48d1cc;
+    text-align: center;
+}
+
+h2{
+    color: #b0e0e6;
+    text-align: center;
+}
+
+p.note{
+    border: thin grey solid;
+    margin: 1.5em 3em;
+    padding: 0.5em;
+    background-color: #FFFF99;
+}
+
+table.point{
+    color: white;
+    font-style: italic;
+    background-color: blueviolet;
+}
