@@ -88,7 +88,7 @@ table {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-table>tbody>th {
+table th {
   /*⑨表のヘッダーセル（th要素）を選択するセレクタは？
 　（table と th の間に何を入れるか？）
 */
@@ -99,7 +99,7 @@ table>tbody>th {
   font-weight: bold;
 }
 
-table>tbody>td {
+table td {
   /*
 ⑩表のデータセル（td要素）を選択するセレクタは？
 　（table と td の間に何を入れるか？）*/
