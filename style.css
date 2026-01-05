@@ -8,14 +8,18 @@ h1 {
 }
 
 h2{
-    font-size: 40px;
+    font-size: 50px;
 }
     
 h3{
-    font-size: 30px;
+    font-size: 40px;
 }
 
 p.kyocho{
     font-weight: bold;
+    font-size: 30px;
+}
+
+p{
     font-size: 25px;
 }
