@@ -1,4 +1,4 @@
-body{
+ody{
     background-color: lightpink;
 }
 
@@ -20,6 +20,11 @@ p.kyocho{
     font-size: 30px;
 }
 
+p.superkyocho{
+    font-weight: bold;
+    font-size: 39px;
+}
+
 p.red{
     color: #ff0000;
     font-weight: bold;
@@ -32,4 +37,11 @@ p{
 
 a{
     font-size: 25px;
+}
+
+table{
+    border: black;
+    color: white;
+    font-style: italic;
+    background-color: blueviolet;
 }
